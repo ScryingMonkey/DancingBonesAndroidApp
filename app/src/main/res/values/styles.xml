@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorAppBarText</item>
+        <item name="android:icon">@color/colorIcons</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:background">@color/colorSettingsMenuBackground</item>
+    </style>
+    <style name="title">
+        <item name= "android:layout_width">wrap_content</item>
+        <item name= "android:layout_height">wrap_content</item>
+        <item name= "android:textColor">@color/color_title_text</item>
+        <item name= "android:textSize">@dimen/title_text_size</item>
+        <item name= "android:layout_margin">@dimen/activity_margin</item>
+    </style>
+    <style name="content">
+        <item name= "android:layout_width">match_parent</item>
+        <item name= "android:layout_height">wrap_content</item>
+        <item name= "android:textColor">@color/color_content_text</item>
+        <item name= "android:textSize">@dimen/content_text_size</item>
+        <item name= "android:layout_margin">@dimen/activity_margin</item>
+        <item name="android:autoLink">all</item>
+    </style>
+    <style name="button">
+        <item name= "android:layout_width">wrap_content</item>
+        <item name= "android:layout_height">wrap_content</item>
+        <item name= "android:textColor">@color/colorButtonText</item>
+        <item name= "android:background">@color/colorButtonBackground</item>
+        <item name= "android:textSize">@dimen/button_text_size</item>
+        <item name= "android:layout_margin">@dimen/activity_margin</item>
+        <item name= "android:clickable">true</item>
+    </style>
+
+</resources>
