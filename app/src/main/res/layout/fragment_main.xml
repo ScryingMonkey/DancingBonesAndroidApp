@@ -1,0 +1,33 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="net.dancingbones.dancingbonesapp.MainFragment"
+    android:layout_marginTop="@dimen/fragment_top_offset" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:text="@string/title_about"
+            android:id="@+id/title_about"
+            android:layout_centerHorizontal="true"
+            style="@style/title"/>
+
+        <ImageView
+            android:id="@+id/db_logo"
+            android:background="@drawable/db_logo02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title_about"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/activity_vertical_margin" />
+        <TextView
+            android:id="@+id/content_about"
+            android:text="@string/content_about"
+            android:layout_below="@+id/db_logo"
+            android:layout_centerHorizontal="true"
+            style="@style/content"/>
+
+</RelativeLayout>
+</ScrollView>

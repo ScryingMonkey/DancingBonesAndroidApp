@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/nav_about" />
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_thumb_up_black_24px"
+            android:title="@string/nav_donate" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news"
+            android:title="@string/nav_news" />
+        <item
+            android:id="@+id/nav_visit"
+            android:icon="@drawable/ic_directions"
+            android:title="@string/nav_visit" />
+        <item
+            android:id="@+id/nav_stayInTouch"
+            android:icon="@drawable/ic_stay_in_touch"
+            android:title="@string/nav_stay_in_touch" />
+        <item
+            android:id="@+id/nav_hiker_info"
+            android:icon="@drawable/ic_hiker"
+            android:title="@string/nav_hiker_info" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Email us" />
+        </menu>
+    </item>
+
+</menu>
