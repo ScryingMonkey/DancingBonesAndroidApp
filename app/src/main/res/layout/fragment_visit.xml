@@ -1,10 +1,7 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     tools:context="net.dancingbones.dancingbonesapp.VisitFragment"
-    android:layout_marginTop="@dimen/fragment_top_offset"
-    android:clickable="false">
+    style="@style/ScrollingScreen">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
@@ -15,16 +12,21 @@
         android:layout_centerHorizontal="true"
         style="@style/title"/>
     <TextView
-        android:text="@string/content_hiker_info"
+        android:text="@string/content_visit"
         android:id="@+id/content_visit"
-        android:layout_below="@+id/title_visit"
+        android:layout_below="@id/title_visit"
         android:layout_centerHorizontal="true"
-        style="@style/content"
-        android:textSize="@dimen/content_text_size" />
+        style="@style/content" />
+    <TextView
+        android:text=""
+        android:id="@+id/distance_to"
+        android:layout_below="@id/content_visit"
+        android:layout_centerHorizontal="true"
+        style="@style/content" />
     <Button
         android:text="@string/button_visit"
         android:id="@+id/button_visit"
-        android:layout_below="@id/content_visit"
+        android:layout_below="@id/distance_to"
         android:layout_centerHorizontal="true"
         style="@style/button" />
 

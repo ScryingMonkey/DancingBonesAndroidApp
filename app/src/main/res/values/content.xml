@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="content_about">"Est. 1998
+        Simply Living, Interdependently
 
-     Dancing Bones is located on the edge of the Baker River Valley and the entrance to the White Mountains of New Hampshire. The Connecticut River is a 20 minute drive and the Appalachian Trail is 1.4 miles from the end of our driveway. There are many other ponds, streams, lakes, hiking trails, rock climbing and camping opportunities close at hand, to say nothing of the wintertime activities. The nearest gas station is ten minutes away and major shopping destinations are 30+ minutes away.
-The community is situated hillside, amongst 40 acres of deciduous forest. A 16x32 cabin functions as our Community Building with shared kitchen, showers, laundry and pantry. For overnight guests, we have a small, furnished, wood heated Guest Cabin. Peppered throughout are a handful of residential cabins. Each cabin is given a name that reflects the character of the person/people who originally built it or the function it serves. All residences and public privies use a humanure composting toilet system.
-The land is held in a community trust. The trust is made of nine members, three from Dancing Bones and six from the greater community. The trust leases the land to Dancing Bones residents. All residential decisions are made using full consensus.
+        Dancing Bones is located on the edge of the Baker River Valley and the entrance to the White Mountains of New Hampshire. The Connecticut River is a 20 minute drive and the Appalachian Trail is 1.4 miles from the end of our driveway. There are many other ponds, streams, lakes, hiking trails, rock climbing and camping opportunities close at hand, to say nothing of the wintertime activities. The nearest gas station is ten minutes away and major shopping destinations are 30+ minutes away.
+
+        The community is situated hillside, amongst 40 acres of deciduous forest. A 16x32 cabin functions as our Community Building with shared kitchen, showers, laundry and pantry. For overnight guests, we have a small, furnished, wood heated Guest Cabin. Peppered throughout are a handful of residential cabins. Each cabin is given a name that reflects the character of the person/people who originally built it or the function it serves. All residences and public privies use a humanure composting toilet system.
+
+        The land is held in a community trust. The trust is made of nine members, three from Dancing Bones and six from the greater community. The trust leases the land to Dancing Bones residents. All residential decisions are made using full consensus.
 While the residents of Dancing Bones are diverse, there are common values and interests we share. These values include deliberate decision making and action, personal responsibility, and social inclusion and involvement. As a result, our interests tend towards unschooling, attachment parenting, alternative technologies and construction, non-mainstream diet and hygiene, personality type, voluntary simplicity and an appreciation for the undomesticated aspects of life.
-
-Simply living, interdependently: Alex, Cheryl, Chip, David, Luke, Melissa, Phaedrus and Quinn
     </string>
     <string name="content_donate">"Send us some money!"
     </string>
-    <string name="content_visit">"     Visiting: Send an email or call to arrange a time that works for everyone. Guests can camp for up to two weeks free or reserve our furnished guest cabin for a $50 per night donation.
-Please let us know upfront about any animals, large or seemingly insignificant, that you have and would like to bring with you. Animals must be under the owners responsible control at all times.
-33 Dancing Bones Rd.
-Wentworth, NH 03282
-dancingbones.community@gmail.com
-802.440.1612"
-    </string>
-    <string name="content_hiker_info">"     The Dancing Bones community offers tenting, hot outdoor showers and outdoor kitchen use to people hiking thru on the Appalachian Trail. If you're lucky you might even get a ride into town, a shared meal and/or wicked good conversation. At peak season, it is extremely buggy in these parts and we have a fairly steep driveway.... Welcome to the Whites! :-)
-We are located 1.4 miles off the AT. Turn left down Cape Moonshine Rd from Ore Hill (south bound) or right from Mt Cube/Atwell Hill trail (north bound). On your way, you should pass the Wentworth Baptist Church. If you don't, you've turned the wrong way. Look for a driveway with a delivery shed and a yellow sign with black lettering that says 33 Dancing Bones Rd.
-Find our listing in AWOL's A.T. guide and Thru-Hiker's Companion."
-    </string>
+    <string name="content_visit">"
+        Send an email or call to arrange a time that works for everyone. Guests can camp for up to two weeks free or reserve our furnished guest cabin for a $50 per night donation.
 
-    <string name="content_stay_in_touch">"All the events listed below are open to the public, including our business meetings which are currently every Saturday @ 7pm.
+        Please let us know upfront about any animals, large or seemingly insignificant, that you have and would like to bring with you. Animals must be under the owners responsible control at all times.
+        33 Dancing Bones Rd.
+        Wentworth, NH 03282
+        dancingbones.community@gmail.com
+        802.440.1612"
+    </string>
+    <string name="content_hiker_info">"
+        The Dancing Bones community offers tenting, hot outdoor showers and outdoor kitchen use to people hiking thru on the Appalachian Trail. If you're lucky you might even get a ride into town, a shared meal and/or wicked good conversation. At peak season, it is extremely buggy in these parts and we have a fairly steep driveway.... Welcome to the Whites! :-)
+
+        We are located 1.4 miles off the AT. Turn left down Cape Moonshine Rd from Ore Hill (south bound) or right from Mt Cube/Atwell Hill trail (north bound). On your way, you should pass the Wentworth Baptist Church. If you don't, you've turned the wrong way. Look for a driveway with a delivery shed and a yellow sign with black lettering that says 33 Dancing Bones Rd.
+
+        Find our listing in AWOL's A.T. guide and Thru-Hiker's Companion."
+    </string>
+    <string name="content_stay_in_touch">"
+        All the events listed below are open to the public, including our business meetings which are currently every Saturday @ 7pm.
 
     The 1st and 3rd Saturdays of every month we have a potluck. Need a food suggestion? Bring something *you* like to eat.
 
-    The 2nd Friday of every month is movie night at The Shed. Check the calendar below for information on the month's scheduled movie.
+    The 2nd Friday of every month is movie night at The Shed. Check our google calendar for information on the month's scheduled movie.
 
     Every Winter and Summer Solstice we have a ritual fire circle in honor of the changing season. The ritual is a simple one and inclusive to all. Join us!
 
-    We are in the planning stages of a Tiny House Conference. Please sign up for our Friends of Dancing Bones Community Newsletter for updates or better still, contact us if you'd like to be involved! dancingbones.community@gmail.com
-
-    Some text about the newsletter.  When it comes out, what it covers, etc.  Adds user to our mailing list."
+        Subscribe to our newsletter! It contains Community Updates, Member Artwork and a monthly Calendar of Events.
     </string>
+    <string name="content_settings">"This is where all the setting toggles will go!"</string>
+    <string name="content_loyalty_card">"This is where we say whatever we need to say about the loyalty card."</string>
 
 
 
