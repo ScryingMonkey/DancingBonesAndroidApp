@@ -1,6 +1,7 @@
 package net.dancingbones.dancingbonesapp;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.IntentSender;
 import android.content.pm.PackageManager;
 import android.location.Location;
@@ -47,6 +48,10 @@ public class MainActivity extends AppCompatActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Starting Google Cloud Messaging service
+        Intent i = new Intent(this, RegistrationService.class);
+        startService(i);
 
         //<Setting up Location services>
         if (mGoogleApiClient == null) {
